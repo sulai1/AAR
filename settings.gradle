@@ -1,0 +1,2 @@
+include ':openCVLibrary310', ':aar'
+include ':openCVTutorial1CameraPreview'
